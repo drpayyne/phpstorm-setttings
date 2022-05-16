@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="tunnel.warden.test" id="0fe6c716-aef7-48dd-b82b-7e6c0a429bbd" keyPath="~/.warden/tunnel/ssh_key" port="2222" nameFormat="DESCRIPTIVE" username="user" />
+      <sshConfig authType="PASSWORD" host="acc.5.magestack.com" id="07afb68f-3760-4580-9f19-ce95e3e2bf25" port="22" nameFormat="DESCRIPTIVE" username="www-data" />
     </configs>
   </component>
 </application>
