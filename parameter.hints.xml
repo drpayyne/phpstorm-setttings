@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Magento\Framework\HTTP\Client\Curl.setOption(name,value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
